@@ -6,4 +6,4 @@
 - 👨‍🚀 wechat:linuszp
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=welcome+to+look+mypage;Hellow+world)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=welcome+to+look+mypage;Hellow+world+你+好)](https://git.io/typing-svg)
