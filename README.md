@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @linuszp
-- 👀 I’m interested in AIOT
+- 👀 I’m interested in EECS & AIOT
 - 🌱 I’m currently learning Machine learning &iot
 - 💞️ I’m looking to collaborate on ...
 - 📫 linuszp@163.com
